@@ -138,7 +138,7 @@ MOV [0040h+02],bx;
 ret
 ```
 ## Output 
-![OUTPUT](Output5-pmc1.png)
+![image](https://github.com/sivaram-R/EXPERIMENT--01-ALP-FOR-8086/assets/121165794/db5fa37c-4671-4568-ba29-e677e31c73c9)
 
 ## OR
 ```
@@ -150,7 +150,8 @@ MOV [0060h],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output6-pmc1.png)
+![image](https://github.com/sivaram-R/EXPERIMENT--01-ALP-FOR-8086/assets/121165794/d9f8976c-1243-4b84-8b20-7f63663e05ac)
+
 ## NOT
 ```
 org 100h
@@ -161,7 +162,7 @@ MOV [0060h+04],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output7-pmc1.png)
+![image](https://github.com/sivaram-R/EXPERIMENT--01-ALP-FOR-8086/assets/121165794/dffd2e8d-f973-453f-bf52-0852dd95022e)
 
 ## XOR
 ```
@@ -173,7 +174,7 @@ MOV [0050h+03],ax;
 ret
 ```
 ## Output
-![OUTPUT](Output8-pmc1.png)
+![image](https://github.com/sivaram-R/EXPERIMENT--01-ALP-FOR-8086/assets/121165794/fb3324ea-89be-48c9-a0a8-c928ad939a9f)
 
 ## Result :
  Thus, a program is executed on ALP for the fundamental arithmetic and logical operations.
